@@ -1,10 +1,3 @@
-## Hi! I'm Débora Marques 👋
-
-<!--
-**deboramarquesds/deboramarquesds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # Hi! I'm Débora Marques 👋
 
 I'm a Bachelor's student in Mathematics at the Federal University of Itajubá (UNIFEI), Brazil, with interests in Applied Mathematics, Data Analysis, and Quantitative Finance. I aim to connect mathematical rigor and analytical thinking with practical challenges, using technology and data to support decision-making.
