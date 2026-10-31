@@ -5,7 +5,7 @@ I'm a Bachelor's student in Mathematics at the Federal University of Itajubá (U
 My background is built on three main pillars:
 
 **Research — Optimization and Quantitative Finance**  
-I'm an undergraduate researcher funded by FAPEMIG, working on financial portfolio optimization. I use Python, Machine Learning, and metaheuristics within a multi-objective approach to balance return, risk, and portfolio composition.
+I'm an undergraduate researcher funded by FAPEMIG, working on financial portfolio optimization. I use Python, Machine Learning, AI and metaheuristics within a multi-objective approach to balance return, risk, and portfolio composition.
 
 **Project and Process Management**  
 I coordinate tasks, timelines, and deliverables, manage client relationships, and help structure business processes. I also apply AI and automation to improve workflows and operational efficiency.
